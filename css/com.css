@@ -1,0 +1,44 @@
+@charset "utf-8";
+.width100{
+    width:100%;
+}
+.width50{
+    width:50%;
+}
+.fl-ri{
+    float: right;
+}
+.fl-le{
+    float: left;
+}
+.po-abs{
+    position: absolute;
+}
+.po-rel{
+    position: relative;
+}
+.po-abs-left{
+    left: 0;
+}
+.po-abs-top{
+    top: 0;
+}
+.rl-auto{
+    right: 25%;
+    left: 25%;
+}
+.dis-blo{
+    display: block;
+}
+.ft-weight{
+    font-weight: bold;
+}
+.mar-bottom20{
+    margin-bottom:20px;
+}
+.mar-bottom10{
+    margin-bottom:10px;
+}
+.mar-right20{
+    margin-right: 20px;
+}

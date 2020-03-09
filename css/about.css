@@ -1,0 +1,11 @@
+@charset "utf-8";
+.l-home .about{
+    bottom: 35%;
+    top: 5%;
+}
+.l-home .about .ab-text{
+    width:calc(50% - 20px);
+    font-size: 14px;
+    line-height: 1.6em;
+    font-family: 'Courier New', Courier, monospace;
+}

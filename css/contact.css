@@ -1,0 +1,48 @@
+@charset "utf-8";
+#wrap .l-home .services {
+    width: 100%;
+    
+}
+#wrap .l-home .services .s-content{
+    width: calc(100% - 100px);
+    padding: 60px 50px 30px 50px;
+    background-color: rgba(248, 238, 238, 0.952);
+}
+#wrap .l-home .services .s-content ul{
+    margin-left: -3%;
+}
+#wrap .l-home .services .s-content ul li{
+    width:30%;
+    margin-left:3%;
+    margin-right: 0;
+}
+.l-home .RB-git .form-group{
+    width: 45%;
+}
+.form-group input,
+.form-group textarea{
+    width: calc(100% - 40px);
+    margin-bottom: 15px;
+    padding: 10px 20px;
+    border: 2px solid rgba(0,0,0,.1);
+    border-radius: 8px;
+    outline: none;
+    background-color:transparent;
+}
+.form-group input:focus{
+    border:2px solid #228896;
+}
+.form-group textarea:focus{
+    border:2px solid #228892;
+}
+.form-group .form-learn{
+    background-color: #228892;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    width: 40%;
+    padding:20px;
+    border:2px solid #228892;
+
+}
